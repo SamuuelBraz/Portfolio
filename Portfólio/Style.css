@@ -6,6 +6,10 @@
     font-family: sans-serif;
 }
 
+.menu{
+   font-size: 22px;
+}
+
 .titulo h2{
    font-size: 38px;
    text-align: center;
@@ -252,9 +256,11 @@ section.projeto .flex{
    color: #fff;
    font-weight: 900;
    position: relative;
+
 }
 
 .img-proj:hover{
+   opacity: 1;
    background-position: 100% 100%;
 }
 
